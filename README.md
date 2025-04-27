@@ -80,6 +80,8 @@
 |                                  | Da Qiao | Xiao Qiao | |
 |                                  | Summer Shuten-Douji | Cleopawtra | Summer Iwanaga-hime |
 |                                  | Thor | Ghodroon | Jormungandr |
+|                                  | New Year Anubis | Quelkulan | New Year Hestia |
+|                                  | Summer Guan Yu | Nazrudin | Summer Raziel |
 | **Damage of Lightning skills**   | Gigas | Eligos | |
 |                                  | Sigrun | Bel-Chandra | |
 |                                  | Abraxas | Tyr | |
